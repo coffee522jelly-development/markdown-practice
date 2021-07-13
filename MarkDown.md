@@ -37,8 +37,5 @@ Console.log("Hello")
 - [ ] B
 - [x] C
 
-## 数式
-$$ e^{i\theta} = \cos\theta + i\sin\theta $$
-
 
 
