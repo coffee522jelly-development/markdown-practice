@@ -21,12 +21,12 @@ https://www.google.co.jp/
 
 ## コード
 一部のみコード表記できます。
-`Console.log("Hello")`
+`Console.log("Hello");`
 
 ブロックでも指定が出来ます。
 ```javascript:test.js
-Console.log("Hello")
-Console.log("Hello")
+Console.log("Hello");
+Console.log("Hello");
 ```
 
 ## 行内の太字
