@@ -23,12 +23,13 @@ https://www.google.co.jp/
 一部のみコード表記できます。
 `Console.log("Hello")`
 
+ブロックでも指定が出来ます。
 ```javascript:test.js
 Console.log("Hello")
 Console.log("Hello")
 ```
 
-## Bold
+## 行内の太字
 おはよう　**こんにちは**　こんばんは
 
 ## チェックボックス
