@@ -11,6 +11,9 @@
 ## リンクの記述
 [Google](https://www.google.co.jp/)
 
+### 自動記述
+https://www.google.co.jp/
+
 ## 引用
 >こんにちは
 >> 二重引用
@@ -20,9 +23,21 @@
 一部のみコード表記できます。
 `Console.log("Hello")`
 
+```javascript:test.js
+Console.log("Hello")
+Console.log("Hello")
+```
+
 ## Bold
 おはよう　**こんにちは**　こんばんは
 
-## リンク自動記述
-https://www.google.co.jp/
+## チェックボックス
+- [ ] A
+- [ ] B
+- [x] C
+
+## 数式
+$$ e^{i\theta} = \cos\theta + i\sin\theta $$
+
+
 
